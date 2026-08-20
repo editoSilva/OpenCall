@@ -1,7 +1,7 @@
 # Infraestrutura e videochamada
 
 # Docker + Docker Compose — orquestração de todos os serviços
-Jitsi self-hosted (imagens oficiais jitsi/web, jitsi/prosody, jitsi/jicofo, jitsi/jvb) — sinalização (XMPP/Prosody), foco de conferência (Jicofo) e roteamento de mídia (JVB)
+##Jitsi self-hosted (imagens oficiais jitsi/web, jitsi/prosody, jitsi/jicofo, jitsi/jvb) — sinalização (XMPP/Prosody), foco de conferência (Jicofo) e roteamento de mídia (JVB)
 Coturn — servidor TURN/STUN próprio, para garantir conectividade em qualquer rede
 WebRTC — protocolo de mídia (áudio/vídeo) usado pelo Jitsi por baixo dos panos
 ICE/STUN/TURN — negociação de conectividade entre peers atrás de NAT
